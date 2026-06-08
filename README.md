@@ -32,6 +32,15 @@ Window > Animation > Animator Extended
 
 Then select an AnimatorController or a GameObject with an Animator.
 
+## Screenshots
+
+Node re-routing
+<img width="1898" height="892" alt="RerouteNode" src="https://github.com/user-attachments/assets/bf86e819-75c5-45a0-919b-d03113a77bf6" />
+
+Parameter copying and more stuff
+<img width="1898" height="892" alt="CopyParameters" src="https://github.com/user-attachments/assets/c021603f-a505-44ae-b6db-b96b10b93541" />
+
+
 ## Notes
 
 This is an editor-only tool.
