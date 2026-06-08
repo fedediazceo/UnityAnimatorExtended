@@ -1,11 +1,11 @@
-# Unity Animator Extended
+# Unity Animator ++
 
 > “If you wish to make an apple pie from scratch, you must first invent the universe.”
 > — Carl Sagan
 
 Simply put, I wanted animator transition route nodes. That's all I needed. But in order to get that, I had to re-create (almost) the entire animator window...
 
-**Animator Extended** is a single-file Unity editor tool that rebuilds the Animator graph experience with a practical goal: add transition reroutes, add transition parameter copy.
+**Animator ++** is a single-file Unity editor tool that rebuilds the Animator graph experience with a practical goal: add transition reroutes, add transition parameter copy.
 
 It does not try to replace Mecanim.
 Just tries to add a simple thing that hasn't been added in decades
@@ -28,7 +28,7 @@ https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git?path=/Assets/UnityAnimatorE
 
 Open from:
 
-Window > Animation > Animator Extended
+Window > Animation > Animator ++
 
 Then select an AnimatorController or a GameObject with an Animator.
 
