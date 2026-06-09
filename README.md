@@ -26,9 +26,14 @@ Eventually, I might add more features that I find useful, or see if someone sugg
 
 ## Installation
 
-Install from Unity Package Manager using a Git URL:
+Install from Unity Package Manager using the Git URL:
 
-https://github.com/fedediazceo/UnityAnimatorPlusPlus.git?path=/Assets/UnityAnimatorPlusPlus
+https://github.com/fedediazceo/UnityAnimatorPlusPlus.git#v0.1.0
+
+Or, use the .unitypackage from releases
+
+Also, if you happen to have a buck to spare, here's the project in itchio. Any change to spare helps me continue developing features on this tool so you don't have to :)
+https://doenitz.itch.io/animator-plusplus
 
 ## Usage
 
@@ -59,6 +64,10 @@ It does not modify runtime Animator behavior.
 Claude helped me build specifically the reflection parts needed to ping the internals of unity's animator data structures, with layouts and UI placement when the situation went dire and seemed hopeless, and finally to proper comment everything so someone else can understand what the hell is going on
 
 Use it with caution, as always. I am not responsible if you nuke your Animator because you pressed the wrong button. This is still in development, but it is a tool I am actively using.
+
+REMEMBER: I tried to recreate as best as I could the unity animator window, just for a single feature that was driving me crazy. I couldn't do EVERY little detail right, but I think for now is close enough. If you have ideas to add, or to improve, please feel free to fork the project, or submit a PR and I might add your changes here. Hope this sparks a better animator experience overall.
+
+Cheers!
 
 ## License
 
